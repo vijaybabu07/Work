@@ -1,0 +1,5 @@
+<test name="Regression1" preserve-order="false">
+  <classes>
+    <class name="testng_pack.Sample.java" />
+  </classes>
+</test>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default samp Proj]">
+  <test thread-count="5" name="Default samp mod(failed)">
+    <classes>
+      <class name="testng_pack.Test3">
+        <methods>
+          <include name="flight_click"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- testng_pack.Test3 -->
+    </classes>
+  </test> <!-- Default samp mod(failed) -->
+</suite> <!-- Failed suite [Default samp Proj] -->

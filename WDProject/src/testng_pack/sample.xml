@@ -1,0 +1,9 @@
+<suite name="Default samp Proj">
+  <test name="Default samp mod">
+    <classes>
+      <class name="testng_pack.Test1"/>
+      <class name="testng_pack.Test2"/>
+      <class name="testng_pack.Test3"/>
+    </classes>
+  </test> 
+</suite> 
