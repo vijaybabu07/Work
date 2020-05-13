@@ -22,6 +22,7 @@ public class Alerts1 {
 		Thread.sleep(1500);
 		System.out.println(a.getText());
 		a.dismiss(); //for canceling
+		driver.close();
 	}
 
 }
